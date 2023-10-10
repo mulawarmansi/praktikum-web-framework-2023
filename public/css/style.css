@@ -1,0 +1,23 @@
+body{
+    margin: 0;    
+}
+
+.container {
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav {
+    background-color: blue;
+    
+}
+nav li{
+    display: inline;
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+}
